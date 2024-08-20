@@ -50,7 +50,7 @@ Monitor wildfire activities and receive alerts to stay informed about fire threa
 
 <div class="flex items-start justify-start gap-5">
   <div class="border bg-gray-100 p-4 my-4 w-64 h-72 flex items-center justify-center rounded-lg flex-col">
-    <img src="https://github.com/aisaanwar62/Docusaurus-document/blob/main/static/img/earthquake.png?raw=true" class="w-28 h-28 mb-2"/>
+    <img src="/img/earthquake.png" class="w-28 h-28 mb-2"/>
  
 <p class="font-semibold">Earthquake Sites</p>
 
